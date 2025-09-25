@@ -1,0 +1,47 @@
+﻿using System;
+using System.Windows.Forms;
+using System.Data.SqlClient;
+
+namespace ContactManagement
+{
+    public partial class LoginForm : Form
+    {
+        public int LoggedInUserId { get; private set; }
+        private readonly string connectionString;
+
+        public LoginForm()
+        {
+            InitializeComponent();
+            connectionString = $@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\ContactManagement\ContactsDB.mdf;Integrated Security=True ";
+        }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            using (SqlConnection con = new SqlConnection(connectionString))
+            {
+                string query = "SELECT UserID FROM Users WHERE Username=@Username AND Password=@Password";
+                SqlCommand cmd = new SqlCommand(query, con);
+                cmd.Parameters.AddWithValue("@Username", txtUsername.Text.Trim());
+                cmd.Parameters.AddWithValue("@Password", txtPassword.Text.Trim());
+                con.Open();
+                var result = cmd.ExecuteScalar();
+                if (result != null)
+                {
+                    LoggedInUserId = Convert.ToInt32(result);
+                    DialogResult = DialogResult.OK;
+                    Close();
+                }
+                else
+                {
+                    MessageBox.Show("Invalid username or password.");
+                }
+            }
+        }
+
+        private void btnRegister_Click(object sender, EventArgs e)
+        {
+            RegisterForm registerForm = new RegisterForm();
+            registerForm.ShowDialog();
+        }
+    }
+}

@@ -1,0 +1,14 @@
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\Tutorial-6\bin\Debug\Tutorial-6.exe.config
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\Tutorial-6\bin\Debug\Tutorial-6.exe
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\Tutorial-6\bin\Debug\Tutorial-6.pdb
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\Tutorial-6\obj\Debug\Tutorial-6.csproj.AssemblyReference.cache
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\Tutorial-6\obj\Debug\Tutorial_6.Form1.resources
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\Tutorial-6\obj\Debug\Tutorial_6.Properties.Resources.resources
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\Tutorial-6\obj\Debug\Tutorial6.Q1.resources
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\Tutorial-6\obj\Debug\Tutorial-6.csproj.GenerateResource.cache
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\Tutorial-6\obj\Debug\Tutorial-6.csproj.CoreCompileInputs.cache
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\Tutorial-6\obj\Debug\Tutorial-6.exe
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\Tutorial-6\obj\Debug\Tutorial-6.pdb
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\Tutorial-6\obj\Debug\Tutorial-6.exe.config
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\Tutorial-6\obj\Debug\Tutorial_6.Q2.resources
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\Tutorial-6\obj\Debug\Tutorial_6.Q3.resources

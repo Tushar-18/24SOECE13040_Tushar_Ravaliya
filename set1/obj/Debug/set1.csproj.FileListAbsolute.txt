@@ -1,0 +1,11 @@
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\set1\obj\Debug\set1.csproj.AssemblyReference.cache
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\set1\obj\Debug\set1.Form1.resources
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\set1\obj\Debug\set1.Properties.Resources.resources
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\set1\obj\Debug\set1.csproj.GenerateResource.cache
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\set1\obj\Debug\set1.csproj.CoreCompileInputs.cache
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\set1\bin\Debug\set1.exe.config
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\set1\bin\Debug\set1.exe
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\set1\bin\Debug\set1.pdb
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\set1\obj\Debug\set1.exe
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\set1\obj\Debug\set1.pdb
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\set1\obj\Debug\set1.exe.config

@@ -1,0 +1,13 @@
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\ContactManagement\bin\Debug\ContactManagement.exe.config
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\ContactManagement\bin\Debug\ContactManagement.exe
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\ContactManagement\bin\Debug\ContactManagement.pdb
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\ContactManagement\obj\Debug\ContactManagement.csproj.AssemblyReference.cache
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\ContactManagement\obj\Debug\ContactManagement.Form1.resources
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\ContactManagement\obj\Debug\ContactManagement.Properties.Resources.resources
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\ContactManagement\obj\Debug\ContactManagement.csproj.GenerateResource.cache
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\ContactManagement\obj\Debug\ContactManagement.csproj.CoreCompileInputs.cache
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\ContactManagement\obj\Debug\ContactManagement.exe
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\ContactManagement\obj\Debug\ContactManagement.pdb
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\ContactManagement\bin\Debug\ContactsDB.mdf
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\ContactManagement\bin\Debug\ContactsDB_log.ldf
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\ContactManagement\obj\Debug\ContactManagement.exe.config

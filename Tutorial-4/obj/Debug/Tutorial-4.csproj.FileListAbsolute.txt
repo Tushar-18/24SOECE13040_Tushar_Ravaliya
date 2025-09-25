@@ -1,0 +1,2 @@
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\Tutorial-4\obj\Debug\Tutorial-4.csproj.AssemblyReference.cache
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\Tutorial-4\obj\Debug\Tutorial-4.csproj.CoreCompileInputs.cache

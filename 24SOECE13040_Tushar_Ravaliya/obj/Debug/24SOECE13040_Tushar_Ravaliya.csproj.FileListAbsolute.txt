@@ -1,0 +1,12 @@
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\24SOECE13040_Tushar_Ravaliya\obj\Debug\24SOECE13040_Tushar_Ravaliya.csproj.AssemblyReference.cache
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\24SOECE13040_Tushar_Ravaliya\obj\Debug\set1.Form2.resources
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\24SOECE13040_Tushar_Ravaliya\obj\Debug\_24SOECE13040_Tushar_Ravaliya.Properties.Resources.resources
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\24SOECE13040_Tushar_Ravaliya\obj\Debug\24SOECE13040_Tushar_Ravaliya.csproj.GenerateResource.cache
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\24SOECE13040_Tushar_Ravaliya\obj\Debug\24SOECE13040_Tushar_Ravaliya.csproj.CoreCompileInputs.cache
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\24SOECE13040_Tushar_Ravaliya\obj\Debug\_24SOECE13040_Tushar_Ravaliya.F1.resources
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\24SOECE13040_Tushar_Ravaliya\bin\Debug\24SOECE13040_Tushar_Ravaliya.exe.config
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\24SOECE13040_Tushar_Ravaliya\bin\Debug\24SOECE13040_Tushar_Ravaliya.exe
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\24SOECE13040_Tushar_Ravaliya\bin\Debug\24SOECE13040_Tushar_Ravaliya.pdb
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\24SOECE13040_Tushar_Ravaliya\obj\Debug\24SOECE13040_Tushar_Ravaliya.exe
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\24SOECE13040_Tushar_Ravaliya\obj\Debug\24SOECE13040_Tushar_Ravaliya.pdb
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\24SOECE13040_Tushar_Ravaliya\obj\Debug\24SOECE13040_Tushar_Ravaliya.exe.config

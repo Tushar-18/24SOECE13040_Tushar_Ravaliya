@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\24SOECE13040_Tushar_Ravaliya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF7BD55-9EF0-4BB8-8134-B243BCB17E11}|24SOECE13040_Tushar_Ravaliya.csproj|D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\24SOECE13040_Tushar_Ravaliya\\p1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF7BD55-9EF0-4BB8-8134-B243BCB17E11}|24SOECE13040_Tushar_Ravaliya.csproj|solutionrelative:p1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P1.cs",
+              "DocumentMoniker": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\24SOECE13040_Tushar_Ravaliya\\P1.cs",
+              "RelativeDocumentMoniker": "P1.cs",
+              "ToolTip": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\24SOECE13040_Tushar_Ravaliya\\P1.cs",
+              "RelativeToolTip": "P1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:15:19.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

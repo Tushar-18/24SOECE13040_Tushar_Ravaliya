@@ -1,0 +1,45 @@
+﻿using System;
+using System.Windows.Forms;
+using System.Data.SqlClient;
+
+namespace ContactManagement
+{
+    public partial class RegisterForm : Form
+    {
+        private readonly string connectionString;
+        public RegisterForm()
+        {
+            InitializeComponent();
+            connectionString = $@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\ContactManagement\ContactsDB.mdf;Integrated Security=True ";
+        }
+
+        private void btnRegister_Click(object sender, EventArgs e)
+        {
+            if (string.IsNullOrWhiteSpace(txtUsername.Text) || string.IsNullOrWhiteSpace(txtPassword.Text))
+            {
+                MessageBox.Show("Username and password are required.");
+                return;
+            }
+            using (SqlConnection con = new SqlConnection(connectionString))
+            {
+                string checkQuery = "SELECT COUNT(*) FROM Users WHERE Username=@Username";
+                SqlCommand checkCmd = new SqlCommand(checkQuery, con);
+                checkCmd.Parameters.AddWithValue("@Username", txtUsername.Text.Trim());
+                con.Open();
+                int exists = (int)checkCmd.ExecuteScalar();
+                if (exists > 0)
+                {
+                    MessageBox.Show("Username already exists.");
+                    return;
+                }
+                string query = "INSERT INTO Users (Username, Password) VALUES (@Username, @Password)";
+                SqlCommand cmd = new SqlCommand(query, con);
+                cmd.Parameters.AddWithValue("@Username", txtUsername.Text.Trim());
+                cmd.Parameters.AddWithValue("@Password", txtPassword.Text.Trim());
+                cmd.ExecuteNonQuery();
+                MessageBox.Show("Registration successful!");
+                Close();
+            }
+        }
+    }
+}

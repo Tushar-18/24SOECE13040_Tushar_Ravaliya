@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\Tutorial-2(A)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E922759-4892-4FB6-9A89-4260446019B7}|Tutorial-2(A).csproj|d:\\btech\\dotnet\\24soece13040_tushar_ravaliya\\tutorial-2(a)\\p10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E922759-4892-4FB6-9A89-4260446019B7}|Tutorial-2(A).csproj|solutionrelative:p10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E922759-4892-4FB6-9A89-4260446019B7}|Tutorial-2(A).csproj|d:\\btech\\dotnet\\24soece13040_tushar_ravaliya\\tutorial-2(a)\\p9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E922759-4892-4FB6-9A89-4260446019B7}|Tutorial-2(A).csproj|solutionrelative:p9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E922759-4892-4FB6-9A89-4260446019B7}|Tutorial-2(A).csproj|d:\\btech\\dotnet\\24soece13040_tushar_ravaliya\\tutorial-2(a)\\p8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E922759-4892-4FB6-9A89-4260446019B7}|Tutorial-2(A).csproj|solutionrelative:p8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E922759-4892-4FB6-9A89-4260446019B7}|Tutorial-2(A).csproj|d:\\btech\\dotnet\\24soece13040_tushar_ravaliya\\tutorial-2(a)\\p7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E922759-4892-4FB6-9A89-4260446019B7}|Tutorial-2(A).csproj|solutionrelative:p7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E922759-4892-4FB6-9A89-4260446019B7}|Tutorial-2(A).csproj|d:\\btech\\dotnet\\24soece13040_tushar_ravaliya\\tutorial-2(a)\\p6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E922759-4892-4FB6-9A89-4260446019B7}|Tutorial-2(A).csproj|solutionrelative:p6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E922759-4892-4FB6-9A89-4260446019B7}|Tutorial-2(A).csproj|d:\\btech\\dotnet\\24soece13040_tushar_ravaliya\\tutorial-2(a)\\p5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E922759-4892-4FB6-9A89-4260446019B7}|Tutorial-2(A).csproj|solutionrelative:p5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E922759-4892-4FB6-9A89-4260446019B7}|Tutorial-2(A).csproj|d:\\btech\\dotnet\\24soece13040_tushar_ravaliya\\tutorial-2(a)\\p4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E922759-4892-4FB6-9A89-4260446019B7}|Tutorial-2(A).csproj|solutionrelative:p4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E922759-4892-4FB6-9A89-4260446019B7}|Tutorial-2(A).csproj|d:\\btech\\dotnet\\24soece13040_tushar_ravaliya\\tutorial-2(a)\\p3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E922759-4892-4FB6-9A89-4260446019B7}|Tutorial-2(A).csproj|solutionrelative:p3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E922759-4892-4FB6-9A89-4260446019B7}|Tutorial-2(A).csproj|d:\\btech\\dotnet\\24soece13040_tushar_ravaliya\\tutorial-2(a)\\p2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E922759-4892-4FB6-9A89-4260446019B7}|Tutorial-2(A).csproj|solutionrelative:p2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E922759-4892-4FB6-9A89-4260446019B7}|Tutorial-2(A).csproj|d:\\btech\\dotnet\\24soece13040_tushar_ravaliya\\tutorial-2(a)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E922759-4892-4FB6-9A89-4260446019B7}|Tutorial-2(A).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P10.cs",
+              "DocumentMoniker": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\Tutorial-2(A)\\P10.cs",
+              "RelativeDocumentMoniker": "P10.cs",
+              "ToolTip": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\Tutorial-2(A)\\P10.cs",
+              "RelativeToolTip": "P10.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAmwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:23:18.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "P9.cs",
+              "DocumentMoniker": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\Tutorial-2(A)\\P9.cs",
+              "RelativeDocumentMoniker": "P9.cs",
+              "ToolTip": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\Tutorial-2(A)\\P9.cs",
+              "RelativeToolTip": "P9.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:22:22.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "P8.cs",
+              "DocumentMoniker": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\Tutorial-2(A)\\P8.cs",
+              "RelativeDocumentMoniker": "P8.cs",
+              "ToolTip": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\Tutorial-2(A)\\P8.cs",
+              "RelativeToolTip": "P8.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:20:49.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "P7.cs",
+              "DocumentMoniker": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\Tutorial-2(A)\\P7.cs",
+              "RelativeDocumentMoniker": "P7.cs",
+              "ToolTip": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\Tutorial-2(A)\\P7.cs",
+              "RelativeToolTip": "P7.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwDQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:20:00.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "P6.cs",
+              "DocumentMoniker": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\Tutorial-2(A)\\P6.cs",
+              "RelativeDocumentMoniker": "P6.cs",
+              "ToolTip": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\Tutorial-2(A)\\P6.cs",
+              "RelativeToolTip": "P6.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwCEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:18:11.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "P5.cs",
+              "DocumentMoniker": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\Tutorial-2(A)\\P5.cs",
+              "RelativeDocumentMoniker": "P5.cs",
+              "ToolTip": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\Tutorial-2(A)\\P5.cs",
+              "RelativeToolTip": "P5.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:16:34.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "P4.cs",
+              "DocumentMoniker": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\Tutorial-2(A)\\P4.cs",
+              "RelativeDocumentMoniker": "P4.cs",
+              "ToolTip": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\Tutorial-2(A)\\P4.cs",
+              "RelativeToolTip": "P4.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:15:35.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "P3.cs",
+              "DocumentMoniker": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\Tutorial-2(A)\\P3.cs",
+              "RelativeDocumentMoniker": "P3.cs",
+              "ToolTip": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\Tutorial-2(A)\\P3.cs",
+              "RelativeToolTip": "P3.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA6wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:14:16.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "P2.cs",
+              "DocumentMoniker": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\Tutorial-2(A)\\P2.cs",
+              "RelativeDocumentMoniker": "P2.cs",
+              "ToolTip": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\Tutorial-2(A)\\P2.cs",
+              "RelativeToolTip": "P2.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:13:06.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\Tutorial-2(A)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\Tutorial-2(A)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T12:19:02.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

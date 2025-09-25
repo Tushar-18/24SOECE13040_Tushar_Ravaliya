@@ -1,0 +1,51 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _24SOECE13040_Tushar_Ravaliya
+{
+    internal class P1
+    {
+        class employee
+        {
+            public int empCode;
+            public string name;
+            public string designation;
+            public double basicPay;
+
+            public employee(int empCode, string name, string designation, double basicPay)
+            {
+                this.empCode = empCode;
+                this.name = name;
+                this.designation = designation;
+                this.basicPay = basicPay;
+            }
+
+            public void CalculateAndPrintPay()
+            {
+                double hra = 0.10 * basicPay;
+                double da = 0.45 * basicPay;
+                double totalPay = basicPay + hra + da;
+                Console.WriteLine($"Employee Code: {empCode}");
+                Console.WriteLine($"Name: {name}");
+                Console.WriteLine($"Designation: {designation}");
+                Console.WriteLine($"Basic Pay: {basicPay}");
+                Console.WriteLine($"HRA: {hra}");
+                Console.WriteLine($"DA: {da}");
+                Console.WriteLine($"Total Pay: {totalPay}");
+                Console.WriteLine();
+            }
+        }
+
+        public static void Main(string[] args)
+        {
+            employee e1 = new employee(101, "Tushar", "Ravaliya", 50000);
+            
+
+            e1.CalculateAndPrintPay();
+           
+        }
+    }
+}

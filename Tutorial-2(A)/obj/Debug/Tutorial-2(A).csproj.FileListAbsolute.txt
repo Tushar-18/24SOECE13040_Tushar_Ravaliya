@@ -1,0 +1,7 @@
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\Tutorial-2(A)\bin\Debug\Tutorial-2(A).exe.config
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\Tutorial-2(A)\bin\Debug\Tutorial-2(A).exe
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\Tutorial-2(A)\bin\Debug\Tutorial-2(A).pdb
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\Tutorial-2(A)\obj\Debug\Tutorial-2(A).csproj.AssemblyReference.cache
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\Tutorial-2(A)\obj\Debug\Tutorial-2(A).csproj.CoreCompileInputs.cache
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\Tutorial-2(A)\obj\Debug\Tutorial-2(A).exe
+D:\btech\dotnet\24SOECE13040_Tushar_Ravaliya\Tutorial-2(A)\obj\Debug\Tutorial-2(A).pdb

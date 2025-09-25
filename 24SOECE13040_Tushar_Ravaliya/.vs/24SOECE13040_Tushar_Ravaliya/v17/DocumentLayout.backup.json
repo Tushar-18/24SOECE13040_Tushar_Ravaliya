@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\24SOECE13040_Tushar_Ravaliya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF7BD55-9EF0-4BB8-8134-B243BCB17E11}|24SOECE13040_Tushar_Ravaliya.csproj|d:\\btech\\dotnet\\24soece13040_tushar_ravaliya\\24soece13040_tushar_ravaliya\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EF7BD55-9EF0-4BB8-8134-B243BCB17E11}|24SOECE13040_Tushar_Ravaliya.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF7BD55-9EF0-4BB8-8134-B243BCB17E11}|24SOECE13040_Tushar_Ravaliya.csproj|d:\\btech\\dotnet\\24soece13040_tushar_ravaliya\\24soece13040_tushar_ravaliya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF7BD55-9EF0-4BB8-8134-B243BCB17E11}|24SOECE13040_Tushar_Ravaliya.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF7BD55-9EF0-4BB8-8134-B243BCB17E11}|24SOECE13040_Tushar_Ravaliya.csproj|d:\\btech\\dotnet\\24soece13040_tushar_ravaliya\\24soece13040_tushar_ravaliya\\p1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF7BD55-9EF0-4BB8-8134-B243BCB17E11}|24SOECE13040_Tushar_Ravaliya.csproj|solutionrelative:p1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF7BD55-9EF0-4BB8-8134-B243BCB17E11}|24SOECE13040_Tushar_Ravaliya.csproj|d:\\btech\\dotnet\\24soece13040_tushar_ravaliya\\24soece13040_tushar_ravaliya\\p4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF7BD55-9EF0-4BB8-8134-B243BCB17E11}|24SOECE13040_Tushar_Ravaliya.csproj|solutionrelative:p4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF7BD55-9EF0-4BB8-8134-B243BCB17E11}|24SOECE13040_Tushar_Ravaliya.csproj|d:\\btech\\dotnet\\24soece13040_tushar_ravaliya\\24soece13040_tushar_ravaliya\\p3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF7BD55-9EF0-4BB8-8134-B243BCB17E11}|24SOECE13040_Tushar_Ravaliya.csproj|solutionrelative:p3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF7BD55-9EF0-4BB8-8134-B243BCB17E11}|24SOECE13040_Tushar_Ravaliya.csproj|d:\\btech\\dotnet\\24soece13040_tushar_ravaliya\\24soece13040_tushar_ravaliya\\p2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF7BD55-9EF0-4BB8-8134-B243BCB17E11}|24SOECE13040_Tushar_Ravaliya.csproj|solutionrelative:p2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF7BD55-9EF0-4BB8-8134-B243BCB17E11}|24SOECE13040_Tushar_Ravaliya.csproj|d:\\btech\\dotnet\\24soece13040_tushar_ravaliya\\24soece13040_tushar_ravaliya\\f1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EF7BD55-9EF0-4BB8-8134-B243BCB17E11}|24SOECE13040_Tushar_Ravaliya.csproj|solutionrelative:f1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF7BD55-9EF0-4BB8-8134-B243BCB17E11}|24SOECE13040_Tushar_Ravaliya.csproj|d:\\btech\\dotnet\\24soece13040_tushar_ravaliya\\24soece13040_tushar_ravaliya\\f1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF7BD55-9EF0-4BB8-8134-B243BCB17E11}|24SOECE13040_Tushar_Ravaliya.csproj|solutionrelative:f1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF7BD55-9EF0-4BB8-8134-B243BCB17E11}|24SOECE13040_Tushar_Ravaliya.csproj|d:\\btech\\dotnet\\24soece13040_tushar_ravaliya\\24soece13040_tushar_ravaliya\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF7BD55-9EF0-4BB8-8134-B243BCB17E11}|24SOECE13040_Tushar_Ravaliya.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\24SOECE13040_Tushar_Ravaliya\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\24SOECE13040_Tushar_Ravaliya\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:31:20.978Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "F1.cs",
+              "DocumentMoniker": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\24SOECE13040_Tushar_Ravaliya\\F1.cs",
+              "RelativeDocumentMoniker": "F1.cs",
+              "ToolTip": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\24SOECE13040_Tushar_Ravaliya\\F1.cs",
+              "RelativeToolTip": "F1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:17:38.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "F1.cs [Design]",
+              "DocumentMoniker": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\24SOECE13040_Tushar_Ravaliya\\F1.cs",
+              "RelativeDocumentMoniker": "F1.cs",
+              "ToolTip": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\24SOECE13040_Tushar_Ravaliya\\F1.cs [Design]",
+              "RelativeToolTip": "F1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:16:48.621Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\24SOECE13040_Tushar_Ravaliya\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\24SOECE13040_Tushar_Ravaliya\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:15:23.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "P1.cs",
+              "DocumentMoniker": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\24SOECE13040_Tushar_Ravaliya\\P1.cs",
+              "RelativeDocumentMoniker": "P1.cs",
+              "ToolTip": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\24SOECE13040_Tushar_Ravaliya\\P1.cs",
+              "RelativeToolTip": "P1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:15:19.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "P2.cs",
+              "DocumentMoniker": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\24SOECE13040_Tushar_Ravaliya\\P2.cs",
+              "RelativeDocumentMoniker": "P2.cs",
+              "ToolTip": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\24SOECE13040_Tushar_Ravaliya\\P2.cs",
+              "RelativeToolTip": "P2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:15:14.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "P3.cs",
+              "DocumentMoniker": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\24SOECE13040_Tushar_Ravaliya\\P3.cs",
+              "RelativeDocumentMoniker": "P3.cs",
+              "ToolTip": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\24SOECE13040_Tushar_Ravaliya\\P3.cs",
+              "RelativeToolTip": "P3.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:15:10.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "P4.cs",
+              "DocumentMoniker": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\24SOECE13040_Tushar_Ravaliya\\P4.cs",
+              "RelativeDocumentMoniker": "P4.cs",
+              "ToolTip": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\24SOECE13040_Tushar_Ravaliya\\P4.cs",
+              "RelativeToolTip": "P4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:15:05.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\24SOECE13040_Tushar_Ravaliya\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\btech\\dotnet\\24SOECE13040_Tushar_Ravaliya\\24SOECE13040_Tushar_Ravaliya\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:14:59.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
